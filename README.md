@@ -1,3 +1,1 @@
-# learn-in-fligno
-Grizon Russell
-Iponan
+# learn@fligno
