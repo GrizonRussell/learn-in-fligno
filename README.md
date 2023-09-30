@@ -1,3 +1,2 @@
 # learn-in-fligno
-Grizon Russell
-Iponan
+Grizon Russell - BSIT
